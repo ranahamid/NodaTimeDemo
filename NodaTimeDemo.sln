@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodaTimeDemo", "NodaTimeDemo\NodaTimeDemo.csproj", "{5730FB64-4E03-4074-A59F-981209C1E9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5730FB64-4E03-4074-A59F-981209C1E9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5730FB64-4E03-4074-A59F-981209C1E9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5730FB64-4E03-4074-A59F-981209C1E9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5730FB64-4E03-4074-A59F-981209C1E9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4C6FD8-F4EB-43D2-941F-392AC5BD0656}
+	EndGlobalSection
+EndGlobal
